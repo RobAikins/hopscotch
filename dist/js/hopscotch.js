@@ -2317,7 +2317,7 @@ __p += '<a title="' +
 ((__t = ( i18n.closeTooltip )) == null ? '' : __t) +
 '</a>';
  } ;
-__p += '\n</div>\n<div class="hopscotch-bubble-arrow-container hopscotch-arrow">\n  <div class="hopscotch-bubble-arrow-border"></div>\n  <div class="hopscotch-bubble-arrow"></div>\n</div>';
+__p += '\n</div>\n<div class="hopscotch-bubble-arrow-container hopscotch-arrow">\n  <div class="hopscotch-bubble-arrow-border"></div>\n  <div class="hopscotch-bubble-arrow"></div>\n</div>\n';
 
 }
 return __p
